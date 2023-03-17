@@ -1,0 +1,70 @@
+.counter {
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    max-width: 400px;
+    margin-top: 200px;
+  }
+  
+  .count-text {
+    font-size: 2.5rem;
+}
+.h1{
+    text-align: center;
+  }
+  .count-number {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 0 200px;
+    text-align: center;
+}
+  
+  .button-group {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 0 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .increase {
+    background-color: #32cd32;
+    color: #fff;
+  }
+  
+  .increase:hover {
+    background-color: #008000;
+  }
+  
+  .decrease {
+    background-color: #dc143c;
+    color: #fff;
+  }
+  
+  .decrease:hover {
+    background-color: #8b0000;
+  }
+  
+  .reset {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .reset:hover {
+    background-color: #000;
+  }
+  
